@@ -8,3 +8,5 @@ Repository containing the work done by the team "Last Minute" during the Start H
 **Full Run** (Juptyer Notebook): it contains the code to load model, fetch some food images through an API, and visualize the performance of the model on new images.
 
 Data Used available at https://www.kaggle.com/datasets/kmader/food41.
+
+Link to the **Figma** app: https://www.figma.com/proto/KunnJbn79hGwK0qPAN7tDw/Start-HACK-2024?type=design&node-id=48-1619&t=r0CjA2ynxccVdZQJ-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=48%3A1619
